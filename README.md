@@ -1,6 +1,4 @@
-### Hi there 👋
-
-i'm ammar @ khai
+### Hi there 👋 i'm khai@ ammar
 
 - 🔭 I’m currently a third year computer science student
 - 🌱 I’m currently learning game dev as a hobby
